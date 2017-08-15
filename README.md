@@ -1,2 +1,2 @@
-# 2017NGS_handson-
+# 2017NGS_handson
 https://biosciencedbc.jp/human/human-resources/workshop/h29
